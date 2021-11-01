@@ -38,6 +38,7 @@ export const Player: React.FC<Props> = ({
             p {
               display: block;
               opacity: 0;
+              color: #FFFF;
             }
 
             .progress-bar {
